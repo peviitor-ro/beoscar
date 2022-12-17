@@ -58,7 +58,7 @@ body:
       description: What operating system version and distribution did you use (use e.g. `ver` on Windows)
       placeholder: ex. Microsoft Windows [Version 10.0.22000.856]
   - type: input
-    id: os-version
+    id: browser-version
     attributes:
       label: browser
       description: What browser did you use (use e.g. `ver` on Windows)
